@@ -14,8 +14,8 @@ The EpiCTRL Guardian, our flagship product, is a smartwatch app that monitors vi
 For more information about EpiCTRL, our projects, or how you can contribute, please reach out to us:
 
 - 📧 info@EpiCTRL.com
-- 🌐 [LinkedIn](LinkedIn.com/company/EpiCTRL)
-- 🌐 [Facebook](Facebook.com/EpiCTRL)
-- 🐦 [Instagram](Instagram.com/epictrl)
+- 🌐 [LinkedIn](https://LinkedIn.com/company/EpiCTRL)
+- 🌐 [Facebook](https://Facebook.com/EpiCTRL)
+- 🐦 [Instagram](https://Instagram.com/epictrl)
 
 Together, let's create a safer, more supportive world for those living with epilepsy.
