@@ -16,6 +16,6 @@ For more information about EpiCTRL, our projects, or how you can contribute, ple
 - 📧 info@EpiCTRL.com
 - 🌐 [LinkedIn](https://LinkedIn.com/company/EpiCTRL)
 - 🌐 [Facebook](https://Facebook.com/EpiCTRL)
-- 🐦 [Instagram](https://Instagram.com/epictrl)
+- 🌐 [Instagram](https://Instagram.com/epictrl)
 
 Together, let's create a safer, more supportive world for those living with epilepsy.
